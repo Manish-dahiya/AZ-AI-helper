@@ -23,7 +23,7 @@
   },
   "web_accessible_resources" : [
     {
-      "resources": [],
+      "resources": ["assets/bookmark.png"],
       "matches" : ["<all_urls>"]
     }
   ],
